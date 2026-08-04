@@ -42,4 +42,5 @@ Python (pandas, XGBoost, geopandas), SQL, DAX, Power BI
 
 ## Author
 Cong Nguyen — Bachelor of Business Analytics and Applied Finance, Macquarie University
+
 Quang Nguyen - 
