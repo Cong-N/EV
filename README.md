@@ -35,7 +35,8 @@ This analysis excludes terminal value beyond 2030, applies a single national cou
 `dashboard/    — Power BI dashboard screenshots`
 
 ## Dashboard
-[Link to interactive Power BI / Tableau Public dashboard]
+[Link to interactive Power BI / Tableau Public dashboard]:
+https://github.com/Cong-N/EV/blob/main/dashboard/EV_visual%20FINAL.pbix
 
 ## Tech Stack
 Python (pandas, XGBoost, geopandas), SQL, Power BI (DAX)
