@@ -38,9 +38,9 @@ This analysis excludes terminal value beyond 2030, applies a single national cou
 [Link to interactive Power BI / Tableau Public dashboard]
 
 ## Tech Stack
-Python (pandas, XGBoost, geopandas), SQL, DAX, Power BI
+Python (pandas, XGBoost, geopandas), SQL, Power BI (DAX)
 
 ## Author
 Cong Nguyen — Bachelor of Business Analytics and Applied Finance, Macquarie University
 
-Quang Nguyen - Bachelor of Commerce, major in Business Analytics
+Quang Nguyen - Bachelor of Commerce, Major in Business Analytics, Macquarie University
